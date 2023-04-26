@@ -1,1 +1,1 @@
-# Challenge---Huddle-Landing-Page
+# Challenge-Huddle-Landing-Page
